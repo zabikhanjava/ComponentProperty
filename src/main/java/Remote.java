@@ -5,4 +5,7 @@ public class Remote {
     System.out.println("common method");
   }
 
+  public void sendSignal() {
+    System.out.println("send signal");
+  }
 }
