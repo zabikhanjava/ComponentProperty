@@ -42,7 +42,6 @@ public class Product {
     this.category = category;
   }
 
-
   void hello() {
 
     Product product = new Product(1, 100, "FootWear");
@@ -66,4 +65,6 @@ public class Product {
     }).collect(Collectors.toList());
   }
 }
+
+
 //Find all the products which belong to “Footwear” category and apply 15% discount on them
