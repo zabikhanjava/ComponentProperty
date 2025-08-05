@@ -10,3 +10,8 @@
 /dataSources.local.xml
 # Zeppelin ignored files
 /ZeppelinRemoteNotebooks/
+
+.classpath
+.project
+.settings/
+target/
